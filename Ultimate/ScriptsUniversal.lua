@@ -22,6 +22,7 @@ if game.PlaceId == 6284583030 then
 loadstring(game:HttpGetAsync("https://blacktrap.org/blacktrap/users/checkpoint/Auth.txt"))()
 end
 
+--List Support Game Or More Complete Scripts
 if not game.PlaceId == false then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DrownHub/HUB/main/Ultimate"))()
